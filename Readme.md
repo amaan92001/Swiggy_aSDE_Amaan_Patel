@@ -3,7 +3,7 @@
 
 # Swiggy aSDE - Magical Arena Game
 
-![Swiggy](https://driver-media-assets.swiggy.com/drivers/q_auto,f_auto,fl_lossy,c_fill/ride-with-us/icons/footer.png)
+![Swiggy](https://www.livemint.com/lm-img/img/2024/10/04/600x338/Swiggy_Orange_Horizontal_1727778844943_1728057951927.png)
 
 
 Welcome to the **Magical Arena**! This project simulates an exciting battle between two players in a magical arena where players attack and defend using dice rolls, health, strength, and attack attributes.
