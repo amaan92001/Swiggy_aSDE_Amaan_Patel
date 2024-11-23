@@ -125,17 +125,5 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 For any questions, feel free to reach out to the project maintainer at [amaanpatel500@gmail.com].
 
----
 
-### End of README
-
----
-
-### Key Features:
-
-1. **Clear Instructions**: The README explains how to install, run, and test the project with detailed steps.
-2. **Game Logic Explanation**: A summary of how the game works and the rules behind the mechanics.
-3. **Project Structure**: It provides a brief overview of the code organization, making it easier for others to understand and navigate the project.
-4. **Technologies**: The tools and frameworks used in the project are clearly listed.
-5. **License and Contribution**: Information about the license and how others can contribute to the project is included.
 
